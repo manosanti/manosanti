@@ -1,8 +1,8 @@
 <h1 align="left"> Olá, devs! 👋</h1>
 
-Me chamo Lucas Santiago, sou um Desenvolvedor FrontEnd. Sejam bem-vindos ao meu repositório!
+Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu repositório!
 
-- 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. FrontEnd.
+- 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. Front-End.
 - 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://www.linkedin.com/in/santiagolucas1/">Portfólio</a> 👈<hr>
 
  <h2 align="center">Hard Skills:
