@@ -4,11 +4,11 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
 
 - 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://www.linkedin.com/in/santiagolucas1/">Portfólio</a> 👈<hr>
 - 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. Front-End.
-- 🌱 Atualmente estou estudando JavaScript, ReactJs, com frameworks: Bootstrap, Chakra e Tailwind CSS.
+- 🌱 No momento, estou estudando JavaScript e ReactJs, com frameworks: Bootstrap e Tailwind CSS.
 - 👯 Sou um Ex-Proano, estudante de Desenvolvimento Web Java.
-- 🤔 Gosto bastante de Lógica de Programação pois estimula bastante a mente.
+- 🤔 Gosto bastante de Lógica de Programação.
 - 📫 Você pode me encontrar no LinkedIn (linkedin.com/in/santiagolucas1/)
-- ⚡ Tenho 18 anos e moro no Estado de São Paulo.
+- ⚡ Tenho 19 anos e moro no Estado de São Paulo.
 
  <h2 align="center">Hard Skills:
  
