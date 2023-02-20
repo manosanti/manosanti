@@ -9,8 +9,6 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
 - 🤔 Gosto bastante de Lógica de Programação.
 - 📫 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/santiagolucas1/
 - ⚡ Tenho 19 anos e moro no Estado de São Paulo.
-
- <h2 align="center">Hard Skills
  
  <div align="center">
   
