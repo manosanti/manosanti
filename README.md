@@ -18,9 +18,12 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
   <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> 
-
-
-  </div> 
+  <br><br>
+ </div> 
+   
+  <a href = "mailto:luccassantiago.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/santiagolucas1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5511980491434?text=Ol%C3%A1,%20Lucas!%0A%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20atrav%C3%A9s%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    
  </div>
 <br>
@@ -30,8 +33,3 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosanti&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
     
-   <div align="center">
-      <a href="https://www.instagram.com/mano.santtt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a> 
-  <a href = "mailto:luccassantiago.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/santiagolucas1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5511980491434?text=Ol%C3%A1,%20Lucas!%0A%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20atrav%C3%A9s%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
