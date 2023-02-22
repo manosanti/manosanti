@@ -2,7 +2,7 @@
 
 Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu repositório!
 
-- 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://my-personal-repository.vercel.app/">Portfólio</a> 👈<hr>
+- 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://lucas-santiago.vercel.app/">Portfólio</a> 👈<hr>
 - 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. Front-End.
 - 🌱 No momento, estou estudando JavaScript e ReactJs, com frameworks: Bootstrap e Tailwind CSS.
 - 👯 Sou um Ex-Proano, estudante de Desenvolvimento Web Java.
