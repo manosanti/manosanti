@@ -1,3 +1,4 @@
+ <a href="https://wakatime.com/@f5ad5fcf-3f17-4911-887b-a9e4ae244b4a"><img src="https://wakatime.com/badge/user/f5ad5fcf-3f17-4911-887b-a9e4ae244b4a.svg" alt="Total time coded since Mar 13 2023" /></a>
 <h1 align="left"> Olá, devs! 👋</h1>
 
 Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu repositório!
@@ -19,8 +20,7 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
   <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <br><br>
- </div> 
-   
+ </div>
   <a href = "mailto:luccassantiago.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/santiagolucas1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
