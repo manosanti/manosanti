@@ -32,8 +32,4 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosanti&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
  
-[![manosanti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manosanti&v=2)](https://github.com/anuraghazra/github-readme-stats)
  
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-    
