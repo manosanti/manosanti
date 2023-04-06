@@ -7,9 +7,9 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
 - 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://lucas-santiago.vercel.app/" target="_blank">Portfólio</a> 👈
 - 📝 Caso prefira, acesse também o meu <a href="https://bit.ly/3JyffNw" target="_blank">Currículo Web</a>.<hr>
 - 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. Front-End.
-- 🌱 No momento, estou estudando JavaScript e ReactJs, com frameworks: Bootstrap e Tailwind CSS.
+- 🎓 Cursando: Análise e Desenvolvimento de Sistemas, Uninove.
+- 🌱 No momento, estou estudando JavaScript, TypeScript, ReactJs, Java & Python.
 - 👯 Sou um Ex-Proano, estudante de Desenvolvimento Web Java.
-- 🤔 Gosto bastante de Lógica de Programação.
 - 📫 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/santiagolucas1/
 - ⚡ Tenho 19 anos e moro no Estado de São Paulo.
  
@@ -18,8 +18,11 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu
   <div style="display: inline_block"><br>
   <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
-  <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="icone-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <br><br>
  </div>
   <a href = "mailto:luccassantiago.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
