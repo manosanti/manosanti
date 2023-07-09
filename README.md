@@ -2,16 +2,14 @@
 
 <h1 align="left"> Olá, devs! 👋</h1>
 
-Me chamo Lucas Santiago, sou um Desenvolvedor Front-End. Sejam bem-vindos ao meu repositório!
+Me chamo Lucas Santiago, sou um Desenvolvedor Full-Stack. Sejam bem-vindos ao meu repositório!
 
 - 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://lucas-santiago.vercel.app/" target="_blank">Portfólio</a> 👈
-- 📝 Caso prefira, acesse também o meu <a href="https://bit.ly/3JyffNw" target="_blank">Currículo Web</a>.<hr>
-- 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. Front-End.
-- 🎓 Cursando: Análise e Desenvolvimento de Sistemas, Uninove.
-- 🌱 No momento, estou estudando JavaScript, TypeScript, ReactJs, Java & Python.
-- 👯 Sou um Ex-Proano, estudante de Desenvolvimento Web Java.
-- 📫 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/santiagolucas1/
-- ⚡ Tenho 19 anos e moro no Estado de São Paulo.
+- 📝 Caso prefira, acesse também o meu <a href="https://www.canva.com/design/DAFoLb_BVTg/kzgmMFAxiQAGX1RWPbR7_g/edit?utm_content=DAFoLb_BVTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Currículo Web</a>.<hr>
+- 🎓 Cursando: **Análise e Desenvolvimento de Sistemas, Uninove.**
+- 🌱 No momento, estou estudando **JavaScript, TypeScript, ReactJs, Java & Python.**
+- 💼 Desenvolvedor Full-Stack pela **Actmob Marketing Digital**
+- 📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/santiagolucas1/" target="_blank">LinkedIn</a>
  
  <div align="center">
   
