@@ -7,10 +7,9 @@ Me chamo Lucas Santiago, sou um Desenvolvedor Full-Stack. Sejam bem-vindos ao me
 - 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://lucas-santiago.vercel.app/" target="_blank">Portfólio</a> 👈
 - 📝 Caso prefira, acesse também o meu <a href="https://www.canva.com/design/DAFoLb_BVTg/kzgmMFAxiQAGX1RWPbR7_g/edit?utm_content=DAFoLb_BVTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Currículo Web</a>.<hr>
 - 🎓 Cursando: **Análise e Desenvolvimento de Sistemas, Uninove.**
-- 🌱 No momento, estou estudando **JavaScript, TypeScript, ReactJs, Java & Python.**
+- 🌱 No momento, estou estudando **JavaScript, ReactJs, PHP & Java.**
 - 💼 Desenvolvedor Full-Stack pela **Actmob Marketing Digital**
-- 📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/santiagolucas1/" target="_blank">LinkedIn</a>
- 
+
  <div align="center">
   
   <div style="display: inline_block"><br>
