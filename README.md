@@ -2,13 +2,26 @@
 
 <h1 align="left"> Olá, devs! 👋</h1>
 
-Me chamo Lucas Santiago, sou um Desenvolvedor Full-Stack. Sejam bem-vindos ao meu repositório!
+```bash
+$ const desenvolvedor = {
+$   nome: "Lucas Santiago",
+$   faculdade: "Análise e Desenvolvimento de Sistemas (Uninove)",
+$   stacks: ["ReactJs", "JavaScript", "MySQL", "PHP"],
+$   empresa: "Actmob Marketing Digital"
+$ };
+$
+$ echo "Meu nome é ${pessoa.nome} e sou especializado em ${pessoa.stack}."
+```
+
+
+<!-- Me chamo Lucas Santiago, sou um Desenvolvedor Full-Stack. Sejam bem-vindos ao meu repositório!
 
 - 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://lucas-santiago.vercel.app/" target="_blank">Portfólio</a> 👈
 - 📝 Caso prefira, acesse também o meu <a href="https://www.canva.com/design/DAFoLb_BVTg/kzgmMFAxiQAGX1RWPbR7_g/edit?utm_content=DAFoLb_BVTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Currículo Web</a>.<hr>
 - 🎓 Cursando: **Análise e Desenvolvimento de Sistemas, Uninove.**
 - 🌱 No momento, estou estudando **JavaScript, ReactJs, PHP & Java.**
 - 💼 Desenvolvedor Full-Stack pela **Actmob Marketing Digital**
+-->
 
  <div align="center">
   
