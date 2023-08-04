@@ -10,7 +10,7 @@ $   stacks: ["ReactJs", "JavaScript", "MySQL", "PHP"],
 $   empresa: "Actmob Marketing Digital"
 $ };
 $
-$ echo "Meu nome é ${pessoa.nome} e sou especializado em ${pessoa.stack}."
+$ echo "Meu nome é ${pessoa.nome} e sou especializado em ${pessoa.stacks}."
 ```
 
 
@@ -22,8 +22,8 @@ $ echo "Meu nome é ${pessoa.nome} e sou especializado em ${pessoa.stack}."
 - 🌱 No momento, estou estudando **JavaScript, ReactJs, PHP & Java.**
 - 💼 Desenvolvedor Full-Stack pela **Actmob Marketing Digital**
 -->
-
  <div align="center">
+Sobre mim:
   
   <div style="display: inline_block"><br>
   <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
