@@ -11,7 +11,7 @@ $   stacks: ["ReactJs", "JavaScript", "MySQL", "PHP"],
 $   empresa: "Actmob Marketing Digital"
 $ };
 $
-$ echo "Meu nome é ${desenvolvedor.nome} e sou especializado em ${desenvolvedor.stacks}."
+$ echo "Meu nome é ${desenvolvedor.nome} e sou especializado em ${desenvolvedor.primaryStack}."
 ```
 
 
