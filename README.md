@@ -5,12 +5,13 @@
 ```bash
 $ const desenvolvedor = {
 $   nome: "Lucas Santiago",
-$   faculdade: "Análise e Desenvolvimento de Sistemas (Uninove)",
+$   faculdade: "Análise e Desenvolvimento de Sistemas",
+$   primaryStack: "Full-Stack",
 $   stacks: ["ReactJs", "JavaScript", "MySQL", "PHP"],
 $   empresa: "Actmob Marketing Digital"
 $ };
 $
-$ echo "Meu nome é ${pessoa.nome} e sou especializado em ${pessoa.stacks}."
+$ echo "Meu nome é ${desenvolvedor.nome} e sou especializado em ${desenvolvedor.stacks}."
 ```
 
 
