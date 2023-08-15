@@ -14,15 +14,6 @@ $
 $ echo "Meu nome é ${desenvolvedor.nome} e sou especializado em ${desenvolvedor.primaryStack}."
 ```
 
-
-<!-- Me chamo Lucas Santiago, sou um Desenvolvedor Full-Stack. Sejam bem-vindos ao meu repositório!
-
-- 📁 Conheçam um pouco mais do meu trabalho, acessem o meu 👉 <a href="https://lucas-santiago.vercel.app/" target="_blank">Portfólio</a> 👈
-- 📝 Caso prefira, acesse também o meu <a href="https://www.canva.com/design/DAFoLb_BVTg/kzgmMFAxiQAGX1RWPbR7_g/edit?utm_content=DAFoLb_BVTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Currículo Web</a>.<hr>
-- 🎓 Cursando: **Análise e Desenvolvimento de Sistemas, Uninove.**
-- 🌱 No momento, estou estudando **JavaScript, ReactJs, PHP & Java.**
-- 💼 Desenvolvedor Full-Stack pela **Actmob Marketing Digital**
--->
  <div align="center">
 Sobre mim:
   
@@ -32,8 +23,11 @@ Sobre mim:
   <img align="center" alt="icone-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<!--   <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> -->
   <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <br><br>
  </div>
   <a href = "mailto:luccassantiago.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
