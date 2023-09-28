@@ -1,6 +1,6 @@
  <a href="https://wakatime.com/@f5ad5fcf-3f17-4911-887b-a9e4ae244b4a"><img src="https://wakatime.com/badge/user/f5ad5fcf-3f17-4911-887b-a9e4ae244b4a.svg" alt="Total time coded since Mar 13 2023" /></a> [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 
-<h1 align="left"> Olá, devs! 👋</h1>
+<h1 color="white" align="left"> Olá, devs! 👋</h1>
 
 ```bash
 $ const desenvolvedor = {
