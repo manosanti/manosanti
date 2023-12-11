@@ -7,7 +7,7 @@ $ const desenvolvedor = {
 $   nome: "Lucas Santiago",
 $   faculdade: "Análise e Desenvolvimento de Sistemas",
 $   primaryStack: "Full-Stack",
-$   stacks: ["ReactJs", "JavaScript", "MySQL", "PHP"],
+$   stacks: ["ReactJs", "NextJs", "JavaScript", "MySQL", "NodeJs", "PHP"],
 $   empresa: "Actmob Marketing Digital"
 $ };
 $
