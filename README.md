@@ -3,15 +3,15 @@
 <h1 color="white" align="left"> Olá, devs! 👋</h1>
 
 ```bash
-$ const desenvolvedor = {
-$   nome: "Lucas Santiago",
-$   faculdade: "Análise e Desenvolvimento de Sistemas",
-$   primaryStack: "Full-Stack",
-$   stacks: ["ReactJs", "NextJs", "JavaScript", "MySQL", "NodeJs", "PHP"],
-$   empresa: "Actmob Marketing Digital"
-$ };
-$
-$ echo "Meu nome é ${desenvolvedor.nome} e sou especializado em ${desenvolvedor.primaryStack}."
+const desenvolvedor = {
+    nome: "Lucas Santiago",
+    faculdade: "Análise e Desenvolvimento de Sistemas",
+    primaryStack: "Full-Stack",
+    stacks: ["ReactJs", "NextJs", "JavaScript", "MySQL", "NodeJs", "PHP"],
+    empresa: "Actmob Marketing Digital"
+};
+
+console.log(`Meu nome é ${desenvolvedor.nome} e sou especializado em ${desenvolvedor.primaryStack}.`);
 ```
 
  <div align="center">
