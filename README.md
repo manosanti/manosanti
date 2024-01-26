@@ -2,7 +2,7 @@
 
 <h1 color="white" align="left"> Olá, devs! 👋</h1>
 
-```bash
+```typescript
 const desenvolvedor = {
     nome: "Lucas Santiago",
     faculdade: "Análise e Desenvolvimento de Sistemas",
