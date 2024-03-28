@@ -3,15 +3,16 @@
 <h1 color="white" align="left"> Olá, devs! 👋</h1>
 
 ```typescript
-const desenvolvedor = {
-    nome: "Lucas Santiago",
-    faculdade: "Análise e Desenvolvimento de Sistemas",
-    primaryStack: "Full-Stack",
-    stacks: ["ReactJs", "NextJs", "JavaScript", "MySQL", "NodeJs", "PHP"],
-    empresa: "Actmob Marketing Digital"
+let developer = {
+    name: "Lucas Santiago",
+    education: "Análise e Desenvolvimento de Sistemas",
+    primaryStack: "Front-End",
+    stacks: ["ReactJs", "NextJs", "JavaScript"],
+    currentLearning: ["TypeScript", "NodeJS", "MySQL", "PHP"],
+    company: "Actmob Marketing Digital"
 };
 
-console.log(`Meu nome é ${desenvolvedor.nome} e sou especializado em ${desenvolvedor.primaryStack}.`);
+console.log(`Meu nome é ${developer.name} e sou especializado em ${developer.primaryStack}.`);
 ```
 
  <div align="center">
