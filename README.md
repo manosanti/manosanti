@@ -9,7 +9,6 @@ let developer = {
     primaryStack: "Front-End",
     stacks: ["ReactJs", "NextJs", "JavaScript"],
     currentLearning: ["TypeScript", "NodeJS", "MySQL", "PHP"],
-    company: "Actmob Marketing Digital"
 };
 
 console.log(`Meu nome é ${developer.name} e sou especializado em ${developer.primaryStack}.`);
