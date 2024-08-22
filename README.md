@@ -7,8 +7,8 @@ let developer = {
     name: "Lucas Santiago",
     education: "Análise e Desenvolvimento de Sistemas",
     primaryStack: "Front-End",
-    stacks: ["ReactJs", "NextJs", "JavaScript"],
-    currentLearning: ["TypeScript", "NodeJS", "MySQL", "PHP"],
+    stacks: ["Angular, ReactJs", "NextJs", "JavaScript"],
+    currentLearning: ["TypeScript", "NodeJS", "MySQL", "SAP B1"],
 };
 
 console.log(`Meu nome é ${developer.name} e sou especializado em ${developer.primaryStack}.`);
